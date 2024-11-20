@@ -1,0 +1,6 @@
+tensorflow
+numpy
+pandas
+PILasOPENCV
+langchain-groq
+python-dotenv
